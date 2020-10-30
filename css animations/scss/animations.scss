@@ -1,0 +1,37 @@
+body {
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: url("../img/react-js.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  height: 400px;
+  background-color: rgb(13, 10, 37);
+  width: 400px;
+  padding: 20px;
+  color: whitesmoke;
+  margin: 30px;
+  border-radius: 12px;
+  box-shadow: 30px 60px rgb(8, 31, 17);
+}
+
+.css {
+  color: cyan;
+}
+
+@keyframes icon {
+  from {
+    transform: translateY(435px);
+  }
+
+  to {
+    transform: translateY(10px);
+  }
+}

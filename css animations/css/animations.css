@@ -1,0 +1,51 @@
+body {
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: url("../img/react-js.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  height: 400px;
+  background-color: #0d0a25;
+  width: 400px;
+  padding: 20px;
+  color: whitesmoke;
+  margin: 30px;
+  border-radius: 12px;
+  -webkit-box-shadow: 30px 60px #081f11;
+          box-shadow: 30px 60px #081f11;
+}
+
+.css {
+  color: cyan;
+}
+
+@-webkit-keyframes icon {
+  from {
+    -webkit-transform: translateY(435px);
+            transform: translateY(435px);
+  }
+  to {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+}
+
+@keyframes icon {
+  from {
+    -webkit-transform: translateY(435px);
+            transform: translateY(435px);
+  }
+  to {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+}
+/*# sourceMappingURL=animations.css.map */

@@ -1,0 +1,8 @@
+.bg img {
+  height: 200px;
+  width: 300px;
+  border-radius: 12px;
+  -webkit-animation: icon 5s;
+          animation: icon 5s;
+}
+/*# sourceMappingURL=basicstyles.css.map */
